@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Surya Sekhar Sharma</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1792972721095179752/39FA646B8E4144931B4819DA6943A17B395ABEF3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img align="right" alt="Coding" width="400" src="https://motionbgs.com/dl/gif/1953">
 
 - 🌱 I’m currently learning **M E R N**
 
