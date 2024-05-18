@@ -5,11 +5,8 @@
 <img align="right" alt="Coding" width="400" src="https://motionbgs.com/dl/gif/1953">
 
 - 🌱 I’m currently learning **M E R N**
-
-- 💬 Ask me about **M E R N**
-
+- 💬 Ask me about **React JS, Frontend development**
 - 📫 How to reach me **sekharsurya111@gmail.com**
-
 - ⚡ Fun fact **I Love To Code And Watch Anime**
 
 <h3 align="left">Connect with me:</h3>
